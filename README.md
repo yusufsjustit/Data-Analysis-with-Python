@@ -9,3 +9,4 @@ I practiced my pandas library skills like:
   6) Calculatingh mean, median, min and max values
   7) Finding missing values
   8) Indexing and Slicing dataframe
+  9) I loved this project
